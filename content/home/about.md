@@ -10,31 +10,43 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Neural Machine Translation",
+    "Deep Learning",
+    "Bayesian Inference",
+    "Software Engineering",
+    "Reinforcement Learning",
+    "Evolutionary Computation"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "MSc in Artificial Intelligence"
+  institution = "Spanish Distance Education University (UNED)"
+  year = 2017
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Computer Science"
+  institution = "Polytechnic University of Madrid (UPM)"
+  year = 2005
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a PhD candidate on Neural Machine Translation at the
+[Polytechnic University of Catalonia (UPC)](http://www.upc.edu/?set_language=en) in Barcelona.
+I am conducting my research under the supervision of Professors
+[Marta Ruiz Costa-Jussà](http://www.costa-jussa.com/) and
+José Adrian Rodríguez Fonollosa, in the [Language and Speech Technologies
+and Applications (TALP) research group](http://www.talp.upc.edu/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+
+I have been a software developer for most of my life, then data scientist
+and now I have turned back to academia to take on my _long-cherished_
+dream to become a researcher on machine learning and artificial intelligence.
+
+
+My research lines focus on Neural Machine Translation (NMT).
+Lately I am interested on _injecting_ prior linguistic knowledge into neural networks,
+specifically on
+hybridizing rule-based machine translation systems with NMT.
