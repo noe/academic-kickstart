@@ -101,7 +101,7 @@ defaultContentLanguageInSubdir = false
   time_format = "15:04"
 
   # Show estimated reading time for posts?
-  reading_time = true
+  reading_time = false
 
   # Display comment count? Requires commenting to be enabled.
   comment_count = true
@@ -145,7 +145,7 @@ defaultContentLanguageInSubdir = false
   # highlight_style = "github"
 
   # Enable native social sharing buttons?
-  sharing = true
+  sharing = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
@@ -261,7 +261,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications_selected"
+  url = "#publications"
   weight = 2
 
 #[[menu.main]]
@@ -276,7 +276,12 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Teaching"
-  url = "#teaching"
+  url = "/teaching"
+  weight = 5
+
+[[menu.main]]
+  name = "CV"
+  url = "/cv"
   weight = 5
 
 [[menu.main]]
