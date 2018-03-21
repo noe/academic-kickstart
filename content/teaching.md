@@ -7,6 +7,9 @@ summary = "Teaching experience"
 hidedate = true
 +++
 
+
+------------------------------------
+
 2017-2018. Deep Learning for AI
 ------------------------------------
 Polytechnic University of Catalonia (UPC).
@@ -16,6 +19,9 @@ Teaching assistant at the practical sessions, [including](http://dlai.deeplearni
 * Keras and TensorBoard
 * PyTorch
 * TensorFlow
+
+
+------------------------------------
 
 
 2017-2018. Introduction to Deep Learning
@@ -29,6 +35,7 @@ In charge of project sessions, [including](https://telecombcn-dl.github.io/2018-
 * Multiclass classification and ConvNets.
 * Model performance evaluation metrics.
 
+------------------------------------
 
 2017-2018. Matlab and its Applications in Engineering
 ------------------------------------
@@ -37,10 +44,16 @@ Polytechnic University of Catalonia (UPC).
 [Subject](https://www.upc.edu/content/grau/guiadocent/pdf/cat/230206) taught online.
 In charge of preparing and grading assingments and final project.
 
+------------------------------------
+
 
 2012-2013. Probability and Statistics
 ------------------------------------
 Polytechnic University of Madrid (UPM). Same syllabus as the following entry.
+
+
+------------------------------------
+
 
 2011-2012. Probability and Statistics
 ------------------------------------
@@ -53,3 +66,6 @@ Part-time lecturer, teaching [syllabus](https://www.fi.upm.es/docs/estudios/grad
 * Random variables, discrete and continuous.
 * Confidence intervals.
 * Hypothesis testing, parametric and non-parametric.
+
+
+------------------------------------
