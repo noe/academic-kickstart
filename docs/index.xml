@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Noe Casas on Noe Casas</title>
+    <link>/</link>
+    <description>Recent content in Noe Casas on Noe Casas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy Noe Casas; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A differentiable BLEU loss. Analysis and first results</title>
+      <link>/publication/iclr2018/</link>
+      <pubDate>Wed, 21 Mar 2018 15:14:10 +0100</pubDate>
+      
+      <guid>/publication/iclr2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>English-Catalan Neural Machine Translation in the Biomedical Domain through the cascade approach</title>
+      <link>/publication/lrec2018/</link>
+      <pubDate>Tue, 20 Mar 2018 18:26:08 +0100</pubDate>
+      
+      <guid>/publication/lrec2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>/cv/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/cv/</guid>
+      <description>
+
+&lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;B.S. in Computer Science, Polytechnic University of Madrid (UPM), 2005&lt;/li&gt;
+&lt;li&gt;M.S. in Artificial Intelligence, Spanish Distance Education University (UNED), 2017&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;work-experience&#34;&gt;Work experience&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;2005-2016: Software engineer&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Company: &lt;a href=&#34;http://www.gmv.com/en/&#34; target=&#34;_blank&#34;&gt;GMV&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Duties included: satellite control software development in C++, Java, Python.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;2016-2017: Data Scientist&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Companies: &lt;a href=&#34;http://www.synergicpartners.com/en/&#34; target=&#34;_blank&#34;&gt;Synergic Partners&lt;/a&gt;, &lt;a href=&#34;http://www.aimsun.com/&#34; target=&#34;_blank&#34;&gt;TSS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Duties included: devise machine learning models and data infrastructure&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/teaching/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/</guid>
+      <description>
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;2017-2018-deep-learning-for-ai&#34;&gt;2017-2018. Deep Learning for AI&lt;/h2&gt;
+
+&lt;p&gt;Polytechnic University of Catalonia (UPC).&lt;/p&gt;
+
+&lt;p&gt;Teaching assistant at the practical sessions, &lt;a href=&#34;http://dlai.deeplearning.barcelona&#34; target=&#34;_blank&#34;&gt;including&lt;/a&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Keras and TensorBoard&lt;/li&gt;
+&lt;li&gt;PyTorch&lt;/li&gt;
+&lt;li&gt;TensorFlow&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;2017-2018-introduction-to-deep-learning&#34;&gt;2017-2018. Introduction to Deep Learning&lt;/h2&gt;
+
+&lt;p&gt;Polytechnic University of Catalonia (UPC).&lt;/p&gt;
+
+&lt;p&gt;In charge of project sessions, &lt;a href=&#34;https://telecombcn-dl.github.io/2018-idl&#34; target=&#34;_blank&#34;&gt;including&lt;/a&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Linear and logistic regression in Keras.&lt;/li&gt;
+&lt;li&gt;Multilayer perceptron in Keras.&lt;/li&gt;
+&lt;li&gt;Multiclass classification and ConvNets.&lt;/li&gt;
+&lt;li&gt;Model performance evaluation metrics.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;2017-2018-matlab-and-its-applications-in-engineering&#34;&gt;2017-2018. Matlab and its Applications in Engineering&lt;/h2&gt;
+
+&lt;p&gt;Polytechnic University of Catalonia (UPC).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.upc.edu/content/grau/guiadocent/pdf/cat/230206&#34; target=&#34;_blank&#34;&gt;Subject&lt;/a&gt; taught online.
+In charge of preparing and grading assingments and final project.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;2012-2013-probability-and-statistics&#34;&gt;2012-2013. Probability and Statistics&lt;/h2&gt;
+
+&lt;p&gt;Polytechnic University of Madrid (UPM). Same syllabus as the following entry.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;2011-2012-probability-and-statistics&#34;&gt;2011-2012. Probability and Statistics&lt;/h2&gt;
+
+&lt;p&gt;Polytechnic University of Madrid (UPM)&lt;/p&gt;
+
+&lt;p&gt;Part-time lecturer, teaching &lt;a href=&#34;https://www.fi.upm.es/docs/estudios/grado/1499_2012-13-GUIA-Probabilidades%20y%20Estadistica%20I_1ersemestre.pdf&#34; target=&#34;_blank&#34;&gt;syllabus&lt;/a&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Descriptive statistic analysis.&lt;/li&gt;
+&lt;li&gt;Foundations of probability.&lt;/li&gt;
+&lt;li&gt;Random variables, discrete and continuous.&lt;/li&gt;
+&lt;li&gt;Confidence intervals.&lt;/li&gt;
+&lt;li&gt;Hypothesis testing, parametric and non-parametric.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
