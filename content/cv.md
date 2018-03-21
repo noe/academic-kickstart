@@ -4,6 +4,7 @@ draft = false
 date = "2018-02-01"
 tags = ["cv", "experience"]
 summary = "CV"
+hidedate = true
 +++
 
 Education
