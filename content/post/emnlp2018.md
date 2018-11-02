@@ -1,7 +1,7 @@
 ---
 title: 'Notes on EMNLP 2018'
-date: 2018-11-01
-draft: false
+date: 2018-11-05
+draft: true
 ---
 
 I recently attended the
