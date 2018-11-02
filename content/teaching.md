@@ -7,6 +7,16 @@ summary = "Teaching experience"
 hidedate = true
 +++
 
+------------------------------------
+
+2018-2019. Deep Learning for AI
+------------------------------------
+Polytechnic University of Catalonia (UPC).
+
+[Final project instructor](https://telecombcn-dl.github.io/2018-dlai/), guiding students
+with their final projects, from topic selection, deep learning framework selection,
+technical approach to follow, implementation, cloud environment setup, etc.
+
 
 ------------------------------------
 
@@ -14,7 +24,7 @@ hidedate = true
 ------------------------------------
 Polytechnic University of Catalonia (UPC).
 
-Teaching assistant at the practical sessions, [including](http://dlai.deeplearning.barcelona):
+Teaching assistant at the practical sessions, [including](https://telecombcn-dl.github.io/2017-dlai/):
 
 * Keras and TensorBoard
 * PyTorch
@@ -49,7 +59,7 @@ In charge of preparing and grading assingments and final project.
 
 2012-2013. Probability and Statistics
 ------------------------------------
-Polytechnic University of Madrid (UPM). Same syllabus as the following entry.
+Polytechnic University of Madrid (UPM). Same syllabus as the next entry.
 
 
 ------------------------------------
@@ -59,10 +69,10 @@ Polytechnic University of Madrid (UPM). Same syllabus as the following entry.
 ------------------------------------
 Polytechnic University of Madrid (UPM)
 
-Part-time lecturer, teaching [syllabus](https://www.fi.upm.es/docs/estudios/grado/1499_2012-13-GUIA-Probabilidades%20y%20Estadistica%20I_1ersemestre.pdf):
+Part-time lecturer, [teaching](https://www.fi.upm.es/docs/estudios/grado/1499_2012-13-GUIA-Probabilidades%20y%20Estadistica%20I_1ersemestre.pdf):
 
 * Descriptive statistic analysis.
-* Foundations of probability.
+* Foundations of probability theory.
 * Random variables, discrete and continuous.
 * Confidence intervals.
 * Hypothesis testing, parametric and non-parametric.
