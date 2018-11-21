@@ -1,10 +1,10 @@
 +++
-title = "The TALP-UPC Machine Translation Systems for WMT18 News Shared Translation Task"
-date = 2018-10-29T10:00:00+00:00
+title = "Genetic Algorithms for multimodal optimization: a review"
+date = 2015-04-01T10:00:00+00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["N. Casas", "C. Escolano", "M.R. Costa-jussà", "J.A. R. Fonollosa"]
+authors = ["N. Casas"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["N. Casas", "C. Escolano", "M.R. Costa-jussà", "J.A. R. Fonollosa"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Proceedings of the Third Conference on Machine Translation (WMT)"
-publication_short = "WMT18"
+publication = "arxiv preprint"
+publication_short = "arxiv preprint"
 
 # Abstract and optional shortened version.
-abstract = "In this article we describe the TALP-UPC research group participation in the WMT18 news shared translation task for Finnish-English and Estonian-English within the multi-lingual subtrack.  All of our primary submissions implement an attention-based Neural Machine Translation architecture.  Given that Finnish and Estonian belong to the same language family and are similar, we use as training data the combination of the datasets of both language pairs to paliate the data scarceness of each individual pair.  We also report the translation quality of systems trained on individual language pair data to serve as baseline and comparison reference."
+abstract = "In this article we provide a comprehensive review of the different evolutionary algorithm techniques used to address multimodal optimization problems, classifying them according to the nature of their approach. On the one hand there are algorithms that address the issue of the early convergence to a local optimum by differentiating the individuals of the population into groups and limiting their interaction, hence having each group evolve with a high degree of independence. On the other hand other approaches are based on directly addressing the lack of genetic diversity of the population by introducing elements into the evolutionary dynamics that promote new niches of the genotypical space to be explored. Finally, we study multi-objective optimization genetic algorithms, that handle the situations where multiple criteria have to be satisfied with no penalty for any of them. Very rich literature has arised over the years on these topics, and we aim at offering an overview of the most important techniques of each branch of the field."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://arxiv.org/abs/1508.05342"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
