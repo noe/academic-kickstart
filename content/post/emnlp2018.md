@@ -100,7 +100,7 @@ very strong at EMNLP. The most remarkable articles were
 and
 [On Tree-Based Neural Sentence Modeling](http://aclweb.org/anthology/D18-1492).
 
-Cross-lingual learning was also present in a lot of different articles
+Cross-lingual learning was present in a lot of different articles
 presented at the conference, both regarding word embeddings, machine
 translation. You can take a look at the [accepted papers](https://aclanthology.coli.uni-saarland.de/events/emnlp-2018)
 and search for "cross-lingual" to get an idea.
@@ -112,6 +112,7 @@ The recent enthusiams about transfer learning with pretrained models like
 at next conferences, for which there's still time to build new systems making use of them.
 
 ## Summary highlights
+
 
 - Transformer and backtranslation are the standard machine translation toolbox.
 - Cross-lingual and low resource scenarios are gaining momentum.
