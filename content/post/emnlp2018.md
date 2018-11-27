@@ -106,9 +106,10 @@ translation. You can take a look at the [accepted papers](https://aclanthology.c
 and search for "cross-lingual" to get an idea.
 
 The recent enthusiams about transfer learning with pretrained models like
-[ELMo](https://allennlp.org/elmo), 
-[BERT](https://arxiv.org/abs/1810.04805) and
-[ULMFiT](https://arxiv.org/abs/1801.06146) was not reflected at EMNLP, but will probably do
+AllenNLP's [ELMo](https://allennlp.org/elmo), 
+Google's [BERT](https://arxiv.org/abs/1810.04805),
+OpenAI's [GPT](https://blog.openai.com/language-unsupervised/) and
+FastAI's [ULMFiT](https://arxiv.org/abs/1801.06146) was not reflected at EMNLP, but will probably do
 at next conferences, for which there's still time to build new systems making use of them.
 
 ## Summary highlights
