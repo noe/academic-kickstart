@@ -1,6 +1,6 @@
 ---
 title: 'Notes on EMNLP 2018'
-date: 2018-11-05
+date: 2018-11-27
 draft: false 
 ---
 
@@ -13,7 +13,7 @@ my opinions, feel free to disagree.
 Feedback is very welcome. Please leave your comments as replies to
 [this tweet](https://twitter.com/noecasas/status/1058264614918635520)
 
-If you want to know more about what happened at EMNLP 2018, I recommend
+If, after reading this post, you want to know more about what happened at EMNLP 2018, I recommend
 [searching for hashtag #emnlp2018 on twitter](https://twitter.com/search?q=%23emnlp2018&src=typd)
 as there was plenty of live tweeting.
 
@@ -89,10 +89,31 @@ we no longer need to trade interpretability for effectiveness.
 
 ## EMNLP: Main Conference
 
+Unsupervised Statistical MT techniques were presented by the
+[Basque Country University](http://aclweb.org/anthology/D18-1399)
+and by [Facebook AI Research](http://aclweb.org/anthology/D18-1549), achieving
+astonishing result without a single pair of parallel sentences.
 
-# Summary highlights
+The trend from last conferences to try to leverage linguistic knowledge was not
+very strong at EMNLP. The most remarkable articles were
+[Linguistically-Informed Self-Attention for Semantic Role Labeling](http://aclweb.org/anthology/D18-1548)
+and
+[On Tree-Based Neural Sentence Modeling](http://aclweb.org/anthology/D18-1492).
 
-ElMO
-BERT
+Cross-lingual learning was also present in a lot of different articles
+presented at the conference, both regarding word embeddings, machine
+translation. You can take a look at the [accepted papers](https://aclanthology.coli.uni-saarland.de/events/emnlp-2018)
+and search for "cross-lingual" to get an idea.
 
+The recent enthusiams about transfer learning with pretrained models like
+[ELMo](https://allennlp.org/elmo), 
+[BERT](https://arxiv.org/abs/1810.04805) and
+[ULMFiT](https://arxiv.org/abs/1801.06146) was not reflected at EMNLP, but will probably do
+at next conferences, for which there's still time to build new systems making use of them.
+
+## Summary highlights
+
+- Transformer and backtranslation are the standard machine translation toolbox.
+- Cross-lingual and low resource scenarios are gaining momentum.
+- Currently, unsupervised SMT works better than unsupervised NMT.
 
