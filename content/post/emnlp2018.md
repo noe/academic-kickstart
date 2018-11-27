@@ -11,7 +11,7 @@ events, from the point of view of a neural machine translation researcher. These
 my opinions, feel free to disagree.
 
 Feedback is very welcome. Please leave your comments as replies to
-[this tweet](https://twitter.com/noecasas/status/1058264614918635520)
+[this tweet](https://twitter.com/noecasas/status/1067365571661049857).
 
 If, after reading this post, you want to know more about what happened at EMNLP 2018, I recommend
 [searching for hashtag #emnlp2018 on twitter](https://twitter.com/search?q=%23emnlp2018&src=typd)
