@@ -9,6 +9,18 @@ hidedate = true
 
 ------------------------------------
 
+2018-2019. Introduction to Deep Learning
+------------------------------------
+Polytechnic University of Catalonia (UPC).
+
+In charge of project sessions, [including](https://telecombcn-dl.github.io/2019-idl):
+
+* Linear and logistic regression in Pytorch.
+* Multilayer perceptron in Pytorch.
+* Multiclass classification and ConvNets in Pytorch.
+
+------------------------------------
+
 2018-2019. Deep Learning for AI
 ------------------------------------
 Polytechnic University of Catalonia (UPC).
