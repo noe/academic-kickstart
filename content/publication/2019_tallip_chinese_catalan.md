@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "http://delivery.acm.org/10.1145/3320000/3312575/a43-costa-jussa.pdf?ip=146.0.48.128&id=3312575&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E7AA43369E69F86DB&__acm__=1558194229_f60701313d070d9de8b5dd468d03cdf2"
+url_pdf = "https://dl.acm.org/ft_gateway.cfm?id=3312575&type=pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
