@@ -15,7 +15,7 @@ authors = ["M.R. Costa-jussà", "N. Casas", "C. Escolano", "M. Melero"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["7"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "ACM Transactions on Asian and Low-Resource Language Information Processing"
