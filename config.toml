@@ -51,11 +51,11 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Noe Casas"
-  role = "PhD candidate in Neural Machine Translation, Researcher at United Language Group (ULG)"
+  role = "Founder of Learnik, the free language learning app."
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Polytechnic University of Catalonia (UPC)", url = "http://www.upc.edu/?set_language=en" } ]
+  organizations = [ { name = "Learnik", url = "http://www.learnik.com" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.

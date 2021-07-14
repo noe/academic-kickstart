@@ -20,6 +20,11 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
+  course = "PhD in Neural Machine Translation"
+  institution = "Polytechnic University of Catalonia (UPC)"
+  year = 2020
+
+[[education.courses]]
   course = "MSc in Artificial Intelligence"
   institution = "Spanish Distance Education University (UNED)"
   year = 2017
@@ -33,20 +38,12 @@ weight = 5
 
 # Biography
 
-I am currently a PhD candidate on Neural Machine Translation at the
+I am currently an entrepreneur. I just founded [Learnik](https://www.learnik.com), a language
+learning app that is free for students.
+
+I hold a PhD in Neural Machine Translation from the
 [Polytechnic University of Catalonia (UPC)](http://www.upc.edu/?set_language=en) in Barcelona.
-I am conducting my research under the supervision of Professors
-[Marta Ruiz Costa-Jussà](http://www.costa-jussa.com/) and
-José Adrian Rodríguez Fonollosa, in the [Language and Speech Technologies
-and Applications (TALP) research group](http://www.talp.upc.edu/).
 
 
-I have been a software developer for most of my life, then data scientist
-and now I have turned back to academia to take on my _long-cherished_
-dream to become a researcher on machine learning and artificial intelligence.
-
-
-My research lines focus on Neural Machine Translation (NMT).
-Lately I am interested on _injecting_ prior linguistic knowledge into neural networks,
-specifically on
-hybridizing rule-based machine translation systems with NMT.
+I have been a software developer for most of my life, then data scientist, then
+researcher and now entrepreneur.

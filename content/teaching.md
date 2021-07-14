@@ -7,6 +7,42 @@ summary = "Teaching experience"
 hidedate = true
 +++
 
+
+------------------------------------
+
+2019-2020. Speech and Language Processing with Deep Learning
+------------------------------------
+
+In charge of the [practical project](https://www.upc.edu/content/master/guiadocent/pdf/ing/230623), consisting
+of training word embeddings, language models, speech classification models.
+
+------------------------------------
+
+2019-2020. Introduction to Deep Learning
+------------------------------------
+
+In charge of [project sessions](https://telecombcn-dl.github.io/2019-idl/) in Pytorch: Linear
+and logistic regression, Multilayer perceptron, Multiclass classification, ConvNets.
+
+------------------------------------
+
+2019-2020. Deep Learning for AI
+------------------------------------
+
+[Final project instructor](https://telecombcn-dl.github.io/dlai-2019/), guiding students in topic
+selection, deep learning framework selection, technical approach to follow, implementation, etc. 
+
+------------------------------------
+
+2018-2019. Natural Language Processing with Deep Learning
+------------------------------------
+
+[Lectures](https://sites.google.com/view/dlnlp2019/):
+* Contextual Word Embeddings.
+* Summarization.
+* Unsupervised Neural Machine Translation.
+* Generative Adversarial Networks in NLP.
+
 ------------------------------------
 
 2018-2019. Introduction to Deep Learning

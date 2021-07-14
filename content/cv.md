@@ -9,12 +9,14 @@ hidedate = true
 
 Education
 ======
+* PhD in Neural Machine Translation, Polytechnic University of Catalonia (UPC), 2020
 * MSc in Artificial Intelligence, Spain National Distance Education University (UNED), 2017
 * BSc in Computer Science, Polytechnic University of Madrid (UPM), 2005
 
 Work experience
 ======
-* 2017-present: Neural Machine Translation researcher.
+* 2020-present: founder at [Learnik](www.learnik.com).
+* 2017-2020: Neural Machine Translation researcher.
   * Company: [Lucy Software](http://www.lucysoftware.com/) ([United Language Group](https://unitedlanguagegroup.com/)).
   * Duties: creation of NMT platform and research on hybridization of rule-based machine translation and NMT.
 * 2016-2017: Data Scientist.
